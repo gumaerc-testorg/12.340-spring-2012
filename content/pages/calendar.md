@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 66b43c2f-c769-b227-a0a8-be9c3f27fa14
 ---
@@ -163,7 +165,7 @@ The Circulation of the Atmosphere and Oceans II
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Non-CO2 Greenhouse Gases
+Non-CO{{< sub "2" >}} Greenhouse Gases
 {{< tdclose >}}
 {{< tdopen >}}
  

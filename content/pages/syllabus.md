@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 68c32c16-296c-d633-156f-91e3bad568eb
 ---
@@ -59,13 +61,13 @@ Term Project
 
 Term project should address an interesting and perhaps controversial issue in climate science, and be of order 10–20 pages in length. Students were asked to summarize their project in a 10-minute presentation to the class toward the end of the semester. Each student selects a topic for the project. For example, they could address the validity of the following controversial statements that are often found in popular literature:
 
-1.  Water vapor is by far the most important greenhouse gas in our atmosphere. Thus variations in other greenhouse gases, such as CO2, are irrelevant.
+1.  Water vapor is by far the most important greenhouse gas in our atmosphere. Thus variations in other greenhouse gases, such as CO{{< sub "2" >}}, are irrelevant.
 2.  Solar variability accounts for much of the climate change that occurred over the past 1000 years also accounts for most of the warming of the last 150 years.
 3.  Global mean temperature peaked in 1998 and has been lower since then. Thus the idea that the earth is warming is a myth.
-4.  Although CO2 and temperature are strongly correlated during the great glacial cycles, as revealed by ice core data, most evidence indicates that CO2 follows temperature, so temperature changes cause CO2 changes, not the other way around.
-5.  Changes in cloudiness counteract the direct effects of CO2—induced warming.
-6.  Most of the observed increase in CO2 was caused by volcanoes.
+4.  Although CO{{< sub "2" >}} and temperature are strongly correlated during the great glacial cycles, as revealed by ice core data, most evidence indicates that CO{{< sub "2" >}} follows temperature, so temperature changes cause CO{{< sub "2" >}} changes, not the other way around.
+5.  Changes in cloudiness counteract the direct effects of CO{{< sub "2" >}}—induced warming.
+6.  Most of the observed increase in CO{{< sub "2" >}} was caused by volcanoes.
 7.  Mars is warming too.
-8.  The globe failed to warm, and the northern hemisphere actually cooled, from around 1950 to around 1980, a period during which the concentrations of CO2 and other greenhouse gases increased. So increasing greenhouse gases cannot cause warming.
+8.  The globe failed to warm, and the northern hemisphere actually cooled, from around 1950 to around 1980, a period during which the concentrations of CO{{< sub "2" >}} and other greenhouse gases increased. So increasing greenhouse gases cannot cause warming.
 9.  It was warmer during the medieval warm period than it is today.
 10.  Since we can't predict what the weather will be doing 10 days from now, there is no way to predict climate change.

@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: a4c8b5f7-6525-87c3-687f-5cd2fea0777f
 ---
@@ -25,7 +28,7 @@ INSTRUCTOR
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction <Lecture notes not available>
+Introduction \<Lecture notes not available>
 {{< tdclose >}}
 {{< tdopen >}}
 Sara Seager
@@ -37,7 +40,7 @@ Sara Seager
 2
 {{< tdclose >}}
 {{< tdopen >}}
-The Origin of Earth's Atmosphere and Oceans <Lecture notes not available>
+The Origin of Earth's Atmosphere and Oceans \<Lecture notes not available>
 {{< tdclose >}}
 {{< tdopen >}}
 Sara Seager
@@ -85,7 +88,7 @@ Daniel Cziczo
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Radiative Transfer I <Lecture notes not available>
+Radiative Transfer I \<Lecture notes not available>
 {{< tdclose >}}
 {{< tdopen >}}
 Sara Seager
@@ -97,7 +100,7 @@ Sara Seager
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Radiative Transfer II <Lecture notes not available>
+Radiative Transfer II \<Lecture notes not available>
 {{< tdclose >}}
 {{< tdopen >}}
 Sara Seager
@@ -157,7 +160,7 @@ Kerry Emanuel
 12
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Non-CO2 Greenhouse Gases (PDF - 1.6MB)]({{< baseurl >}}/resources/mit12_340s12_lec12)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Non-CO{{< sub "2" >}} Greenhouse Gases (PDF - 1.6MB)]({{< baseurl >}}/resources/mit12_340s12_lec12)
 {{< tdclose >}}
 {{< tdopen >}}
 Daniel Cziczo
@@ -205,7 +208,7 @@ Kerry Emanuel
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Solar and Orbital Variability <Lecture notes not available>
+Solar and Orbital Variability \<Lecture notes not available>
 {{< tdclose >}}
 {{< tdopen >}}
 Sara Seager

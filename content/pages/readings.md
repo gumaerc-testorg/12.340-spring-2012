@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 9a65612e-cf56-87d3-2a4e-594154887ba4
 ---
@@ -46,7 +49,7 @@ Chapter 1 in \[IPCC\].
 The Origin of Earth's Atmosphere and Oceans
 {{< tdclose >}}
 {{< tdopen >}}
-<no readings>
+\<no readings>
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -163,7 +166,7 @@ Chapter 6 in \[Global Warming\].
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Non-CO2 Greenhouse Gases
+Non-CO{{< sub "2" >}} Greenhouse Gases
 {{< tdclose >}}
 {{< tdopen >}}
 Chapter 4 in \[Global Warming\].
@@ -202,7 +205,7 @@ Chapter 2.4 in \[IPCC\].
 Climate Sensitivity, Forcings, and Feedbacks
 {{< tdclose >}}
 {{< tdopen >}}
-<no readings>
+\<no readings>
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -274,7 +277,7 @@ Chapter 10 in \[IPCC\].
 Climate Change Mitigation and Some Links to Adaptation
 {{< tdclose >}}
 {{< tdopen >}}
-<no readings>
+\<no readings>
 {{< tdclose >}}
 
 {{< trclose >}}
