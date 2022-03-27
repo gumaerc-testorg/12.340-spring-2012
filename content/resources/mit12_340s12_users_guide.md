@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: ada5794d-5234-006f-24a7-dcb8e10fc054
 resourcetype: Document
 title: Microsoft Word - Users_Guide.docx
 uid: 70e3ee6c-742d-bcba-a978-48bc8da3912f
