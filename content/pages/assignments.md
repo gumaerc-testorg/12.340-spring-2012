@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the assignments for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -25,7 +26,7 @@ TOPICS
 Problem set 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Paleoclimate (PDF)]({{< baseurl >}}/resources/mit12_340s12_ps1)
+{{% resource_link 253da24c-8a4c-b69e-57fe-75d509fae16d "Paleoclimate (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +35,7 @@ Problem set 1
 Problem set 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Radiative Transfer and the Greenhouse Effect (PDF)]({{< baseurl >}}/resources/mit12_340s12_ps2)
+{{% resource_link f7e3d2ec-aee1-d8d2-6740-4cbd497a7206 "Radiative Transfer and the Greenhouse Effect (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +44,7 @@ Problem set 2
 Problem set 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Radiative-Convective Equilibrium (PDF)]({{< baseurl >}}/resources/mit12_340s12_ps3)
+{{% resource_link 3bd61bbe-70c5-519f-351d-027bed63b24b "Radiative-Convective Equilibrium (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +53,7 @@ Problem set 3
 Problem set 4
 {{< tdclose >}}
 {{< tdopen >}}
-[The Carbon Cycle and Other Greenhouse Gases (PDF)]({{< baseurl >}}/resources/mit12_340s12_ps4)
+{{% resource_link 317b72db-d41b-5d12-cf9a-3275592a22a5 "The Carbon Cycle and Other Greenhouse Gases (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +62,7 @@ Problem set 4
 Problem set 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Forcings and Feedbacks in the Climate System (PDF)]({{< baseurl >}}/resources/mit12_340s12_ps5)
+{{% resource_link 7109f877-9674-822e-4e0e-fb1ab688df5f "Forcings and Feedbacks in the Climate System (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the term project for the course,
+  including objective, potential topics, guidelines, deadlines, and grading policy.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
