@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding user guide.
 file: /courses/12-340-global-warming-science-spring-2012/70e3ee6c742dbcbaa97848bc8da3912f_MIT12_340S12_Users_Guide.pdf
+file_size: 657007
 file_type: application/pdf
 learning_resource_types:
 - Tools
