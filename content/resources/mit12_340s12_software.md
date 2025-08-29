@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file for MIT single-column model software.
-file: /courses/12-340-global-warming-science-spring-2012/372a2d35a673755db96a6253dfd7176a_MIT12_340S12_software.zip
+file: /ol-ocw-studio-app/courses/12-340-global-warming-science-spring-2012/372a2d35a673755db96a6253dfd7176a_MIT12_340S12_software.zip
 file_size: 113273
 file_type: application/zip
 learning_resource_types:
